@@ -7,7 +7,7 @@ Betty H. Fairfax robotics will compete in the First Robitics 2017 competition. O
    :maxdepth: 2
    :caption: Contents:
 
-
+    setup
 
 Indices and tables
 ==================
