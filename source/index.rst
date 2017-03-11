@@ -1,10 +1,7 @@
-.. Stampede Robotics documentation master file, created by
-   sphinx-quickstart on Fri Mar  3 23:23:11 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to Stampede Robotics's!
 ===============================
+
+Betty H. Fairfax robotics will compete in the First Robitics 2017 competition. Our robot, Steampede will be performing multiple tasks in an effort to obtain maximum points. 
 
 .. toctree::
    :maxdepth: 2
