@@ -1,7 +1,14 @@
-Welcome to Stampede Robotics's!
+Stampede Robotics's!
 ===============================
+Welcome! This is the main documentation site for the Stampede Robotics team 
+of 2017. This years FRC theme is Steampunk and with that, we have named our 2017 
+robot Steampede. 
 
-Betty H. Fairfax robotics will compete in the First Robitics 2017 competition.  
+Competition Date
+----------------
+Arizona West Regional April 5th, 2017 to April 8th, 2017
+https://www.thebluealliance.com/event/2017azpx
+
 
 .. toctree::
    :maxdepth: 2
