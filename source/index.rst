@@ -11,11 +11,16 @@ https://www.firstinpsires.org/robotics/frc/game-and-Season
 Competition Date
 ----------------
 Arizona West Regional April 5th, 2017 to April 8th, 2017
+
 https://www.thebluealliance.com/event/2017azpx
 
 Team Event Page
 ---------------
 https://www.thebluealliance.com/team/2844/2017
+
+RobotPy
+-------
+http://robotpy.readthedocs.io/en/stable/index.html
 
 
 .. toctree::

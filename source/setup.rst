@@ -11,6 +11,7 @@ Virtual Machine
 ===============
 Prebuilt image for Stampede Robotics developer
 * Download and Install the latest version of VirtualBox by Oracle
+* https://www.virtualbox.org
 * Download virtual image
 * Create new virtual machine and use existing vm.
 
