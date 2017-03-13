@@ -50,6 +50,7 @@ App Dependency
 * apt install python3-pytest
 * apt install python3-logilab-common
 * apt install libsdl2-developer
+* apt install python3-tkinter
 
 Python Library Depdency
 +++++++++++++++++++++++
