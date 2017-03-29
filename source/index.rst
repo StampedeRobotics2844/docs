@@ -28,6 +28,8 @@ http://robotpy.readthedocs.io/en/stable/index.html
    :caption: Contents:
    
    setup
+   git
+   deploy
 
 Indices and tables
 ==================
